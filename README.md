@@ -1,2 +1,1 @@
-# quanttide-handbook-of-figma
-量潮Figma手册
+# 量潮Figma手册
